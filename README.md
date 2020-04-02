@@ -1,2 +1,3 @@
 # hello-world
 my first github repository
+I am tryieg to learn aspects of web development like API Rest, server-side scripting with python/django, client-side scripting with javascript/jquery, and more...
